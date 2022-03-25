@@ -1,0 +1,85 @@
++-------------+---------------------------+--------------------------------+--------------------+
+| ID          | Username                  | Full Name                      |       Phone        |
++-------------+---------------------------+--------------------------------+--------------------+
+| 47894386552 | lamaisoncecet             | La maison Cece T.              |    +38971302416    |
+| 217238481   | thedollshousefashion      | The Dolls House Fashion        |   +441612379470    |
+| 5600236146  | korabtrnica               | Korab Trnica                   |    +38976361953    |
+| 4828935742  | officeshoes_mk            | Office Shoes Makedonija        |    +38978243836    |
+| 5608818587  | vtornik_craftbar          | Вторник - Крафт Бар            |    +38970585573    |
+| 2230457959  | philippweberartist        | Philipp Weber                  |  +49491754008362   |
+| 5983994179  | oktayseydi_hairartist     | O.S                            |    +38972612980    |
+| 9193131725  | beauty_studio_mia_arabi   | MIA ARABI                      |    +38978440281    |
+| 190354505   | gudevristo                | Gudev Risto                    |    +38970338500    |
+| 40032139238 | bistro8skopje             | 𝐁𝐢𝐬𝐭𝐫𝐨 𝟖 𝐋𝐨𝐮𝐧𝐠𝐞 𝐁𝐚𝐫 🍹          |    +38979254914    |
+| 3858178902  | newsworthyhomes           | Luxury Real Estate & Design    |    +14045905798    |
+| 1301174438  | dafineneziri              | DAFINË NEZIRI                  |   +4915255128609   |
+| 28935102210 | limak.skopje.hotel        | Limak Skopje Luxury Hotel      |    +38925518100    |
+| 45563459099 | bistro.group              | Di Lunna espresso              |    +38971207416    |
+| 8682164931  | beautifulminds.jd         | Psihoterapija & Coaching       | <<not-applicable>> |
+| 4277449174  | j.dimitar                 | Dimitar Janev                  |    +38970214353    |
+| 11523626725 | bookland.mk               | Букленд 📖                      |    +38925284930    |
+| 175987091   | djnikifor                 | Dj Nikifor                     |    +38975426604    |
+| 11389210620 | moj_psiholog              | Мој психолог                   |    +38975964015    |
+| 36014436255 | kanela.slatkarnica        | Слаткарница Канела Струмица    |    +38934331945    |
+| 29378386091 | coffeeshop_bubi           |                                |    +38970323924    |
+| 12177509800 | ____anapetrovic____       | Ana Petrović                   |   +381644671671    |
+| 1236434520  | literatura.mk             | Literatura.mk                  |    +38978264754    |
+| 28607634200 | boutiqueviedofficial      | Insta Boutique VIED            |   +436767533454    |
+| 1603219180  | dzenan                    | Dženan Lončarević              |    +38761488884    |
+| 205450363   | vlatkolozanoski           | Lozano                         |    +38978269942    |
+| 1453553687  | danielnikolovskiofficial1 | Daniel Nikolovski              |    +38976454777    |
+| 1836304220  | senoritamilica            | Milica Pavlovic                |    +38111111111    |
+| 25801240799 | tribecamk                 | Tribeca - Restaurant & Bar     |    +38970303413    |
+| 214997504   | filip_arsovski            | 𝐅𝐈𝐋𝐈𝐏 𝐀𝐑𝐒𝐎𝐕𝐒𝐊𝐈                 |    +38972555559    |
+| 4263829025  | kariera_plus              | KARIERA PLUS®️                 |    +38978248252    |
+| 5533988293  | donisilinov               | Doni Silinov 🙌🏻                |    +38978765262    |
+| 8094773819  | skyapartments.strumica    | SKY Apartmani - Strumica       |    +38978605839    |
+| 18124728882 | enjoycoffeenshisha        | Наргиле бар                    |    +38978223716    |
+| 1363973382  | pepi_jovanov              | Pepi Jovanov                   |    +38977550369    |
+| 15865949658 | hotelistatov              | Hotel Istatov                  |    +38934227556    |
+| 3246766343  | clubindustrial_           | Club Industrial                |    +38974220554    |
+| 5550252171  | bazenaquarius             | Cafe Bazen AQUARIUS            |    +38972233103    |
+| 252965056   | vasilps                   | Vasil Pop-Stojanov             |    +38978811132    |
+| 7523541955  | dg.aesthetic              | 𝗗𝗶𝗷𝗮𝗴𝗻𝗼𝘀𝘁𝗶𝗰𝗸𝗶 𝗖𝗲𝗻𝘁𝗮𝗿-𝗔𝗲𝘀𝘁𝗵𝗲𝘁𝗶𝗰 |    +38970983009    |
+| 1305884659  | mikinikoloskiphotographyy | Мики Николоски Photographer    |    +38975841002    |
+| 323198655   | micevskimarko             | Marko Micevski                 |    +38976227777    |
+| 5957210628  | marcofilippo_official     | MARCO FILIPPO️️                |    +38972555559    |
+| 3964994525  | dm_makedonija             | dm_makedonija                  |    +38923222733    |
+| 4036245976  | enjoygevgelija            | cafe&restaurantEnjoy           |    +38934211007    |
+| 9686556002  | legionerstojmir           | Legioner Stojmir               |    +38972305300    |
+| 257685854   | mariohenriqueoficial      | MARIO HENRIQUE                 |   +5517992516060   |
+| 6174862103  | gostilnica_kafana         | 🔶Гостилница Кафана             |    +38970219654    |
+| 2229502083  | perlashoesbags            | Perla shoes                    |    +38946250210    |
+| 3102219290  | skopjemarriott            | Skopje Marriott Hotel          |    +38925102510    |
+| 3285316546  | theloftmk                 | The Loft                       |    +38971272000    |
+| 7988939281  | officemarketplus          | Office Market +                |    +38978284438    |
+| 6506559379  | equilibriumrestaurantbar  | EQUILIBRIUM restaurant & bar   |    +38926090555    |
+| 4298587676  | restaurantdion            | Ресторан Дион                  |    +38972222445    |
+| 7761148102  | club_centralpark_official | Club CENTRAL PARK              |    +38976336006    |
+| 8512163419  | bkw_hybrid_bar            | BKW                            |    +38971216348    |
+| 2093751939  | belleza.makeup.bitola     | Belleza Profesional Makeup     |    +38975237800    |
+| 325738457   | tommytassev               | 𝐓𝐨𝐦𝐦𝐲 𝐓𝐚𝐬𝐬𝐞𝐯                   |    +41782000800    |
+| 3914940090  | sincerelyphenom           |                                |    +14693353811    |
+| 7295507586  | lumierevilla              | Villa Lumiere                  |    +38970355504    |
+| 3250161943  | defactogevgelija          | De Facto                       |    +38977530333    |
+| 555964315   | lusido.mk                 | LUSIDO Shoes & Fashion         |    +38970333122    |
+| 562489155   | galleriahairclub          | VK                             |    +35924446424    |
+| 971799810   | demodecouture             | Demode atelier                 |     0114021072     |
+| 2985178261  | libero_band               | Libero Band                    |    +38978253199    |
+| 1516844930  | srekja.mk                 | srekja.mk                      |    +38975228777    |
+| 1336501393  | zanov.official            | ZANOV                          |    +38978573616    |
+| 6462122288  | butikgold.man             | GOLD Online Shop               |    +38976214443    |
+| 1323990649  | gavrovski.r               | Riste Gavrovski 🎤              |    +38971559889    |
+| 758506091   | tightbeatsdj              | TIGHTBEATS                     |    +38977546765    |
+| 1287335483  | plouise_makeup_academy    | Plouise Makeup Academy         |   +441614597420    |
+| 587352624   | martinvitanov             | -> Martin Vitanov <-           |    +38978399765    |
+| 258219952   | martindonev               | Martin Donev                   |    +38970310999    |
+| 3268245511  | adja_macedonia            | Очила_Часовници_Накит_2022     |   +381642222264    |
+| 2714751812  | hair_studio_magic         | Hair Studio MAGIC              |    +38970925271    |
+| 658349983   | cincevb                   | Borislav Cincev                |    +38978251407    |
+| 1604411724  | magic.whisperer           | Magic Whisperer                |    +38766209788    |
+| 395632774   | spejko                    | D A R K O   S P E J K O        |    +38976637145    |
+| 1273427444  | ludosti.hr                | Poklon Studio                  |    +38598500700    |
+| 3416684     | victoriassecret           | Victoria's Secret              |    +18008881500    |
+| 305701719   | jlo                       | Jennifer Lopez                 |    +13056900379    |
++-------------+---------------------------+--------------------------------+--------------------+
